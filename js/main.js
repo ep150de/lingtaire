@@ -10,6 +10,8 @@
 // 6) make an undo button
 // 7) add 'instructions' section
 
+//Forked by Alexander Lingle for ordinal theory project 3.15.2023
+
 /*----- constants -----*/ 
 
 const suits = ['s', 'h', 'c', 'd'];
